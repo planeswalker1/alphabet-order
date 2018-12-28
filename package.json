@@ -1,0 +1,15 @@
+{
+  "name": "alphabet-order",
+  "version": "1.0.0",
+  "author": "Daniel Munoz <daniel.munozdev@gmail.com>",
+  "private": true,
+  "description": "A website that returns the index of any english alphabet letter",
+  "main": "app.js",
+  "scripts": {
+    "build": "npm install",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.4"
+  }
+}
