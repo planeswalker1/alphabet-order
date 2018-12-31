@@ -1,6 +1,6 @@
 # _alphabet-order_
 
-#### _api programming challenge, 12.27.2018_
+#### _api programming challenge, 12.30.2018_
 
 #### By _**planeswalker1**_
 
@@ -66,4 +66,5 @@ _If you run into any issues or have questions, ideas or concerns contact me at d
 ## Technologies Used
 
 _JavaScript_
+
 _Node_
